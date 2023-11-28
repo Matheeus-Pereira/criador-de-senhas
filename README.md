@@ -1,3 +1,3 @@
 # criador-de-senhas
 
-uma melhoria do que eu já tinha feito, resolvi debugar ele certinho, é pouco mas é trabalho honesto
+projeto execitando j-frame e crianção de mensagens de erro 
