@@ -1,3 +1,3 @@
 # criador-de-senhas
 
-projeto execitando j-frame e crianção de mensagens de erro 
+projeto exercitando j-frame e crianção de mensagens de erro 
